@@ -1,5 +1,6 @@
 fx_version 'cerulean'
 game 'gta5'
+lua54 'yes'
 
 description 'GTAO HUD for ESX - Money display similar to GTA Online'
 
@@ -17,4 +18,5 @@ server_scripts {
 
 dependencies {
     'es_extended'
+
 }
